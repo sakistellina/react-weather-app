@@ -1,12 +1,12 @@
 import React from "react";
-
-import './App.css';
+import Weather from "./Weather";
+import "./App.css";
 
 export default function App() {
   return (
   <div className="App">
     <div className="container">
-    <h1>Weather App</h1>
+      <Weather />
       <footer>
         Project by{" "}
         <a href="https://www.youtube.com/channel/UCxA0jIEI19lY0Kg_jvcGSRQ"
