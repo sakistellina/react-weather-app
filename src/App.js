@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          Project Weather App react by{" "}
+          Project Weather App react by{" "} 
           <a href="https://www.youtube.com/channel/UCxA0jIEI19lY0Kg_jvcGSRQ" target="_blank">
             SAKISTELLINA
           </a>{" "}
